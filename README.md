@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Esta aplicação pode ser executada seguindo os passos 1 e 2.
 
-## Getting Started
+## Passo 1: Como executar o front-end
 
-First, run the development server:
+Dentro de /Client
 
 ```bash
+#instalação dos pacotes
+npm install
+#execução
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Passo 2: Como executar o back-end
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Dentro de /Server
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+#instalação dos pacotes, caso esteja no linux
+pip install fastapi uvicorn
+#instalação dos pacotes, caso esteja no windows
+py -m pip install fastapi uvicorn
+#execução
+uvicorn app:app --reload
+```
 
-## Learn More
+A interface com o usuário (front-end) poderá ser acessada em [http://localhost:3000](http://localhost:3000)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A API em python estará interagindo com o modelo treinado, e atendendo requisições na porta 8000 ([http://localhost:8000](http://localhost:8000))
