@@ -19,6 +19,7 @@ import {
   SelectItem,
   Select,
 } from "@/components/ui/select";
+import { useRouter } from "next/navigation";
 
 const formSchema = z
   .object({
@@ -27,7 +28,7 @@ const formSchema = z
     passwordConfirm: z.string(),
     accountType: z.enum(["personal", "company"]),
     companyName: z.string().optional(),*/
-    age: z.number(),
+    age: z.coerce.number(),
     gender: z.enum(["Masculino", "Feminino", "Prefiro não informar"]),
     history: z.enum(["Shopping", "Noticias", "Entretenimento", "Educação", "Redes Sociais"]),
     device: z.enum(["Desktop", "Mobile", "Tablet"]),
@@ -56,20 +57,21 @@ const formSchema = z
 
 
 const UserForm = () => {
+  const router = useRouter();
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
       age: 0,
-      //gender: "",
-      //passwordConfirm: "",
-      //companyName: "",
     },
   });
 
-  //const accountType = form.watch("accountType");
-
   const handleSubmit = (values: z.infer<typeof formSchema>) => {
     console.log({ values });
+    /*router.push({
+      pathname: '/ad-positions',
+      query: values,
+    });*/
+    router.push(`/ad-positions?age=${values.age}&gender=${values.gender}&history=${values.history}&device=${values.device}`);
   };
 
   return (
