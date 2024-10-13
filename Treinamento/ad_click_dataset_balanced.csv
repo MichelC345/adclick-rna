@@ -1,0 +1,1033 @@
+age,gender,device_type,ad_position,browsing_history,time_of_day,click
+56.0,Female,Tablet,Bottom,News,Morning,1
+43.0,Male,Tablet,Bottom,Education,Afternoon,1
+37.0,Male,Mobile,Top,News,Evening,0
+49.0,Male,Mobile,Top,News,Morning,1
+59.0,Female,Desktop,Bottom,Social Media,Morning,0
+64.0,Female,Mobile,Side,Education,Morning,0
+55.0,Female,Tablet,Side,Shopping,Night,0
+39.0,Non-Binary,Mobile,Side,Social Media,Afternoon,0
+19.0,Non-Binary,Tablet,Side,Shopping,Evening,0
+43.0,Female,Tablet,Bottom,Social Media,Night,0
+42.0,Male,Desktop,Top,Shopping,Night,0
+34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+35.0,Female,Mobile,Bottom,Social Media,Night,0
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+47.0,Non-Binary,Tablet,Bottom,Entertainment,Afternoon,0
+33.0,Non-Binary,Mobile,Top,News,Morning,0
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+20.0,Male,Mobile,Side,Shopping,Night,1
+45.0,Non-Binary,Desktop,Top,Social Media,Night,0
+53.0,Female,Desktop,Top,Social Media,Night,0
+20.0,Female,Mobile,Top,Social Media,Afternoon,1
+26.0,Female,Mobile,Bottom,News,Evening,1
+56.0,Female,Mobile,Bottom,Education,Morning,1
+62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+50.0,Non-Binary,Desktop,Side,Education,Night,0
+56.0,Female,Mobile,Bottom,News,Night,1
+36.0,Male,Tablet,Top,Shopping,Night,0
+40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+32.0,Male,Desktop,Side,News,Afternoon,0
+25.0,Male,Tablet,Top,Social Media,Evening,0
+61.0,Male,Desktop,Top,Education,Night,0
+53.0,Non-Binary,Mobile,Side,News,Morning,1
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+51.0,Male,Mobile,Top,Social Media,Morning,1
+29.0,Male,Mobile,Top,News,Evening,0
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+63.0,Male,Desktop,Side,Social Media,Evening,1
+53.0,Non-Binary,Mobile,Side,News,Morning,1
+24.0,Male,Mobile,Bottom,Education,Evening,1
+57.0,Female,Desktop,Top,News,Night,0
+62.0,Female,Mobile,Side,Entertainment,Afternoon,0
+26.0,Male,Desktop,Side,Entertainment,Night,0
+61.0,Male,Desktop,Side,Social Media,Morning,1
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+30.0,Female,Desktop,Bottom,News,Night,0
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+62.0,Female,Desktop,Side,Education,Morning,1
+42.0,Male,Tablet,Bottom,Shopping,Night,1
+32.0,Non-Binary,Mobile,Top,News,Morning,1
+31.0,Female,Desktop,Side,Shopping,Night,1
+20.0,Female,Tablet,Side,Entertainment,Night,1
+47.0,Female,Tablet,Side,Entertainment,Afternoon,0
+40.0,Non-Binary,Desktop,Side,News,Evening,0
+59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+58.0,Male,Desktop,Bottom,Social Media,Evening,1
+24.0,Non-Binary,Tablet,Top,Education,Evening,0
+21.0,Female,Mobile,Side,Social Media,Night,1
+26.0,Non-Binary,Mobile,Top,Social Media,Evening,1
+28.0,Female,Mobile,Bottom,Shopping,Morning,1
+42.0,Non-Binary,Mobile,Side,Education,Morning,0
+61.0,Male,Desktop,Side,Social Media,Morning,1
+53.0,Non-Binary,Desktop,Side,Shopping,Morning,0
+35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+30.0,Female,Mobile,Top,Social Media,Morning,1
+23.0,Non-Binary,Tablet,Top,Education,Morning,1
+57.0,Male,Desktop,Side,Social Media,Evening,0
+37.0,Female,Desktop,Top,Education,Afternoon,0
+20.0,Female,Tablet,Side,Entertainment,Night,1
+24.0,Male,Mobile,Top,Entertainment,Night,1
+57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+40.0,Male,Desktop,Top,Entertainment,Evening,1
+54.0,Male,Tablet,Side,Education,Evening,1
+25.0,Female,Mobile,Top,News,Night,0
+26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+34.0,Female,Tablet,Side,News,Afternoon,0
+63.0,Male,Desktop,Side,Social Media,Night,1
+20.0,Male,Mobile,Side,Shopping,Night,1
+43.0,Non-Binary,Desktop,Side,News,Evening,0
+26.0,Female,Mobile,Bottom,News,Evening,1
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+50.0,Female,Tablet,Side,Entertainment,Morning,0
+61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+58.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+21.0,Female,Mobile,Side,News,Morning,1
+37.0,Female,Desktop,Top,Entertainment,Evening,1
+41.0,Male,Tablet,Top,Shopping,Night,0
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+31.0,Male,Mobile,Bottom,Social Media,Afternoon,0
+26.0,Male,Tablet,Bottom,Entertainment,Night,1
+41.0,Male,Mobile,Bottom,Social Media,Night,1
+49.0,Female,Mobile,Bottom,News,Afternoon,0
+45.0,Female,Mobile,Side,Social Media,Morning,1
+30.0,Non-Binary,Tablet,Top,News,Morning,1
+57.0,Non-Binary,Mobile,Bottom,News,Night,1
+53.0,Male,Mobile,Top,Education,Afternoon,0
+50.0,Male,Tablet,Top,Social Media,Afternoon,0
+31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+49.0,Male,Tablet,Bottom,News,Morning,1
+36.0,Female,Desktop,Bottom,Shopping,Morning,1
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+24.0,Male,Desktop,Side,Shopping,Morning,1
+32.0,Non-Binary,Mobile,Top,News,Morning,1
+31.0,Male,Tablet,Top,Social Media,Morning,1
+52.0,Non-Binary,Tablet,Bottom,News,Afternoon,0
+54.0,Non-Binary,Tablet,Bottom,Shopping,Night,0
+59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+49.0,Male,Desktop,Top,News,Afternoon,1
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+43.0,Female,Mobile,Top,News,Evening,0
+56.0,Female,Mobile,Bottom,Education,Morning,1
+40.0,Male,Desktop,Top,Entertainment,Evening,1
+57.0,Non-Binary,Mobile,Bottom,News,Night,1
+41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+27.0,Female,Mobile,Side,News,Night,0
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+37.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+57.0,Male,Mobile,Top,Social Media,Afternoon,0
+31.0,Male,Tablet,Top,Social Media,Morning,1
+49.0,Male,Mobile,Top,News,Morning,1
+26.0,Male,Mobile,Bottom,Education,Evening,1
+18.0,Female,Mobile,Bottom,Education,Night,0
+62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+28.0,Female,Mobile,Bottom,Education,Afternoon,0
+62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+43.0,Female,Tablet,Bottom,News,Afternoon,1
+34.0,Male,Desktop,Top,News,Night,1
+29.0,Female,Mobile,Top,Entertainment,Afternoon,0
+38.0,Non-Binary,Desktop,Top,Shopping,Night,1
+25.0,Male,Desktop,Side,Education,Night,1
+34.0,Male,Mobile,Side,Social Media,Night,0
+36.0,Female,Desktop,Top,Education,Evening,0
+45.0,Male,Desktop,Top,Education,Morning,1
+23.0,Female,Desktop,Bottom,Entertainment,Evening,1
+62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+28.0,Female,Mobile,Bottom,Shopping,Morning,1
+46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+22.0,Female,Mobile,Side,Entertainment,Evening,0
+36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+60.0,Female,Mobile,Side,Shopping,Afternoon,0
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+33.0,Male,Tablet,Top,News,Night,0
+58.0,Male,Desktop,Bottom,Social Media,Evening,1
+29.0,Male,Tablet,Bottom,Shopping,Morning,1
+44.0,Female,Desktop,Top,Entertainment,Evening,1
+30.0,Male,Mobile,Side,Shopping,Morning,0
+41.0,Non-Binary,Mobile,Side,Education,Night,1
+43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+18.0,Female,Mobile,Bottom,Entertainment,Night,0
+59.0,Male,Desktop,Side,Shopping,Evening,0
+36.0,Female,Desktop,Bottom,Shopping,Morning,1
+34.0,Non-Binary,Mobile,Side,Social Media,Afternoon,0
+44.0,Female,Desktop,Top,Entertainment,Evening,1
+20.0,Female,Mobile,Top,Social Media,Afternoon,1
+29.0,Male,Desktop,Side,Shopping,Afternoon,1
+38.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+30.0,Non-Binary,Tablet,Top,News,Morning,1
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+46.0,Female,Tablet,Top,Social Media,Morning,0
+41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+61.0,Male,Desktop,Side,Social Media,Morning,1
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+21.0,Female,Mobile,Side,News,Morning,1
+46.0,Male,Tablet,Top,Entertainment,Night,1
+37.0,Female,Desktop,Top,Entertainment,Evening,1
+20.0,Male,Tablet,Side,News,Night,1
+46.0,Male,Desktop,Top,Shopping,Afternoon,0
+37.0,Non-Binary,Mobile,Top,News,Evening,0
+62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+37.0,Female,Desktop,Side,News,Evening,0
+42.0,Male,Tablet,Top,Entertainment,Morning,0
+47.0,Male,Desktop,Bottom,Education,Night,1
+54.0,Female,Tablet,Top,News,Evening,1
+49.0,Male,Desktop,Top,News,Afternoon,1
+64.0,Male,Tablet,Top,Entertainment,Morning,0
+37.0,Female,Desktop,Side,Entertainment,Afternoon,0
+36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+25.0,Female,Mobile,Bottom,Social Media,Evening,1
+22.0,Female,Desktop,Bottom,Entertainment,Morning,0
+53.0,Non-Binary,Desktop,Bottom,News,Night,0
+42.0,Male,Mobile,Bottom,Social Media,Morning,0
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+23.0,Male,Desktop,Top,Entertainment,Afternoon,0
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+40.0,Non-Binary,Mobile,Side,News,Night,0
+53.0,Non-Binary,Tablet,Bottom,Education,Evening,0
+53.0,Non-Binary,Tablet,Top,Shopping,Night,1
+28.0,Male,Mobile,Side,News,Night,0
+49.0,Male,Desktop,Top,News,Afternoon,1
+28.0,Male,Desktop,Side,Social Media,Evening,1
+18.0,Female,Mobile,Bottom,News,Morning,0
+63.0,Male,Desktop,Side,Social Media,Night,1
+59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+29.0,Male,Tablet,Bottom,Shopping,Morning,1
+43.0,Male,Tablet,Bottom,Social Media,Morning,0
+20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+60.0,Male,Desktop,Side,Education,Night,0
+48.0,Female,Desktop,Top,News,Afternoon,0
+42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+24.0,Female,Mobile,Top,News,Afternoon,0
+56.0,Female,Tablet,Bottom,News,Morning,1
+54.0,Female,Tablet,Top,News,Evening,1
+49.0,Male,Desktop,Top,Shopping,Morning,1
+23.0,Male,Mobile,Side,Education,Afternoon,0
+21.0,Female,Mobile,Side,Social Media,Night,1
+45.0,Female,Mobile,Side,Social Media,Evening,0
+26.0,Female,Mobile,Bottom,News,Evening,1
+38.0,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,0
+53.0,Female,Desktop,Side,News,Afternoon,0
+49.0,Male,Desktop,Top,Shopping,Morning,1
+52.0,Non-Binary,Desktop,Top,Social Media,Evening,0
+49.0,Female,Tablet,Bottom,News,Evening,0
+39.0,Male,Desktop,Side,Social Media,Night,1
+61.0,Female,Tablet,Bottom,Shopping,Evening,1
+62.0,Female,Tablet,Top,News,Evening,0
+21.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,0
+35.0,Female,Tablet,Side,Shopping,Evening,0
+46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+26.0,Male,Tablet,Bottom,Entertainment,Night,1
+21.0,Female,Tablet,Top,Social Media,Afternoon,0
+41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+41.0,Female,Mobile,Top,Entertainment,Night,1
+54.0,Female,Tablet,Top,News,Evening,1
+50.0,Female,Mobile,Top,Shopping,Afternoon,0
+24.0,Male,Desktop,Side,Shopping,Morning,1
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+41.0,Male,Mobile,Bottom,Social Media,Night,1
+59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+53.0,Male,Mobile,Top,News,Afternoon,1
+28.0,Female,Desktop,Bottom,News,Evening,1
+34.0,Female,Mobile,Top,Education,Evening,1
+52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+41.0,Male,Mobile,Bottom,Social Media,Night,1
+45.0,Female,Mobile,Side,Social Media,Morning,1
+45.0,Female,Mobile,Side,Social Media,Morning,1
+62.0,Male,Desktop,Bottom,Social Media,Night,0
+37.0,Male,Desktop,Top,Social Media,Morning,0
+59.0,Non-Binary,Tablet,Bottom,News,Morning,0
+28.0,Female,Desktop,Bottom,News,Evening,1
+62.0,Female,Desktop,Top,Shopping,Afternoon,1
+56.0,Female,Desktop,Side,Shopping,Afternoon,0
+46.0,Female,Tablet,Side,Social Media,Afternoon,0
+30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+58.0,Male,Desktop,Bottom,Social Media,Evening,1
+54.0,Male,Tablet,Side,Education,Evening,1
+49.0,Male,Mobile,Top,News,Morning,1
+36.0,Female,Desktop,Bottom,Shopping,Morning,1
+40.0,Female,Tablet,Side,Shopping,Afternoon,0
+21.0,Female,Desktop,Side,News,Afternoon,1
+58.0,Non-Binary,Desktop,Top,Education,Afternoon,1
+64.0,Non-Binary,Mobile,Bottom,Social Media,Evening,0
+31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+63.0,Male,Desktop,Side,Social Media,Evening,1
+34.0,Male,Mobile,Top,Entertainment,Evening,1
+52.0,Male,Desktop,Bottom,News,Morning,0
+36.0,Male,Tablet,Bottom,Shopping,Evening,1
+49.0,Female,Tablet,Side,Shopping,Evening,0
+47.0,Male,Desktop,Side,News,Night,0
+23.0,Male,Tablet,Side,Social Media,Morning,0
+61.0,Female,Desktop,Side,Shopping,Afternoon,1
+41.0,Male,Mobile,Bottom,Social Media,Night,1
+50.0,Female,Tablet,Side,Social Media,Morning,0
+20.0,Male,Tablet,Side,News,Night,1
+26.0,Male,Tablet,Bottom,Entertainment,Night,1
+43.0,Female,Desktop,Top,Shopping,Night,1
+62.0,Female,Desktop,Side,Education,Morning,1
+25.0,Female,Tablet,Bottom,Education,Morning,1
+34.0,Male,Desktop,Top,News,Night,1
+62.0,Non-Binary,Tablet,Top,Entertainment,Evening,0
+25.0,Female,Mobile,Bottom,Social Media,Evening,1
+26.0,Male,Mobile,Bottom,Education,Evening,1
+62.0,Male,Mobile,Top,Education,Afternoon,0
+47.0,Male,Desktop,Bottom,Education,Night,1
+53.0,Male,Mobile,Top,News,Afternoon,1
+52.0,Male,Mobile,Bottom,News,Afternoon,0
+49.0,Non-Binary,Desktop,Top,Entertainment,Night,0
+35.0,Female,Mobile,Bottom,Social Media,Evening,0
+30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+46.0,Male,Tablet,Top,Entertainment,Night,1
+34.0,Male,Mobile,Top,Entertainment,Evening,1
+54.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+38.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+58.0,Male,Desktop,Bottom,Social Media,Evening,1
+57.0,Male,Mobile,Top,News,Evening,1
+35.0,Male,Desktop,Side,Education,Evening,0
+44.0,Female,Mobile,Top,Shopping,Afternoon,1
+27.0,Non-Binary,Desktop,Bottom,Entertainment,Evening,0
+49.0,Male,Mobile,Top,Social Media,Morning,0
+53.0,Non-Binary,Mobile,Side,News,Morning,1
+54.0,Female,Tablet,Top,Education,Night,1
+36.0,Female,Tablet,Bottom,Education,Morning,0
+29.0,Male,Desktop,Side,Shopping,Afternoon,1
+56.0,Female,Mobile,Bottom,News,Night,1
+24.0,Male,Desktop,Side,Shopping,Morning,1
+38.0,Female,Mobile,Side,News,Night,1
+34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+36.0,Male,Mobile,Top,Entertainment,Night,0
+35.0,Male,Tablet,Bottom,Shopping,Evening,0
+54.0,Male,Desktop,Bottom,Education,Night,0
+33.0,Female,Desktop,Bottom,News,Afternoon,0
+27.0,Male,Mobile,Bottom,News,Evening,0
+42.0,Male,Mobile,Top,News,Morning,0
+45.0,Female,Mobile,Side,Social Media,Morning,1
+28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+60.0,Non-Binary,Desktop,Bottom,Social Media,Morning,0
+25.0,Female,Tablet,Bottom,Education,Morning,1
+25.0,Male,Desktop,Side,Education,Night,1
+31.0,Female,Tablet,Side,Education,Evening,0
+62.0,Male,Mobile,Top,Social Media,Night,1
+61.0,Male,Desktop,Side,Social Media,Morning,1
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+52.0,Female,Desktop,Bottom,Education,Afternoon,0
+21.0,Non-Binary,Desktop,Bottom,News,Night,0
+31.0,Female,Desktop,Side,Shopping,Night,1
+35.0,Female,Tablet,Top,Education,Evening,1
+36.0,Female,Desktop,Top,Education,Morning,0
+43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+56.0,Female,Mobile,Bottom,Education,Morning,1
+25.0,Male,Mobile,Side,Entertainment,Morning,0
+44.0,Female,Desktop,Top,Entertainment,Evening,1
+29.0,Male,Desktop,Side,Shopping,Afternoon,1
+35.0,Non-Binary,Desktop,Side,Social Media,Morning,0
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+64.0,Female,Mobile,Side,Shopping,Evening,0
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+54.0,Non-Binary,Tablet,Bottom,Education,Evening,0
+61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+22.0,Male,Tablet,Bottom,Entertainment,Night,1
+29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+28.0,Female,Tablet,Side,Shopping,Morning,0
+58.0,Male,Tablet,Side,Education,Night,0
+43.0,Non-Binary,Mobile,Bottom,Entertainment,Afternoon,0
+38.0,Non-Binary,Desktop,Top,Shopping,Night,1
+31.0,Male,Desktop,Bottom,Shopping,Evening,1
+20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+56.0,Female,Tablet,Bottom,News,Morning,1
+63.0,Male,Desktop,Side,Social Media,Night,1
+20.0,Male,Mobile,Side,Shopping,Night,1
+56.0,Non-Binary,Desktop,Side,Shopping,Night,0
+31.0,Female,Tablet,Side,Shopping,Afternoon,0
+34.0,Female,Desktop,Side,Social Media,Night,0
+52.0,Female,Tablet,Top,Education,Morning,1
+20.0,Female,Tablet,Side,Entertainment,Night,1
+59.0,Male,Tablet,Side,Social Media,Evening,1
+34.0,Female,Mobile,Top,Education,Evening,1
+22.0,Female,Tablet,Side,Entertainment,Afternoon,0
+52.0,Female,Tablet,Top,Education,Morning,1
+40.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+22.0,Male,Tablet,Bottom,Entertainment,Night,1
+22.0,Female,Tablet,Top,Education,Morning,0
+39.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+30.0,Female,Mobile,Top,Social Media,Morning,1
+50.0,Female,Desktop,Side,Education,Afternoon,1
+42.0,Male,Tablet,Bottom,Shopping,Night,1
+40.0,Male,Desktop,Top,Entertainment,Evening,1
+51.0,Female,Mobile,Top,News,Evening,0
+36.0,Male,Mobile,Bottom,Social Media,Night,0
+38.0,Non-Binary,Desktop,Bottom,News,Night,0
+57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+46.0,Male,Mobile,Top,Education,Afternoon,0
+44.0,Female,Mobile,Top,Shopping,Afternoon,1
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+50.0,Female,Desktop,Side,Education,Afternoon,1
+57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+43.0,Female,Tablet,Bottom,Shopping,Night,0
+30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+29.0,Male,Tablet,Side,Education,Afternoon,1
+41.0,Non-Binary,Mobile,Side,Education,Night,1
+44.0,Non-Binary,Mobile,Side,Shopping,Morning,1
+45.0,Male,Desktop,Top,Education,Morning,1
+45.0,Male,Mobile,Bottom,Education,Afternoon,0
+29.0,Male,Mobile,Side,Entertainment,Afternoon,0
+63.0,Male,Desktop,Side,Social Media,Evening,1
+61.0,Female,Tablet,Bottom,Shopping,Evening,1
+19.0,Female,Tablet,Bottom,Social Media,Morning,1
+24.0,Female,Desktop,Side,News,Afternoon,0
+49.0,Non-Binary,Tablet,Side,Social Media,Afternoon,0
+30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+22.0,Male,Tablet,Bottom,Entertainment,Night,1
+44.0,Female,Desktop,Top,Entertainment,Evening,1
+25.0,Male,Desktop,Side,Education,Night,1
+57.0,Male,Tablet,Side,Education,Morning,1
+38.0,Female,Mobile,Side,News,Night,1
+46.0,Male,Tablet,Top,Entertainment,Night,1
+32.0,Female,Mobile,Side,Education,Night,0
+52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+45.0,Male,Mobile,Top,Entertainment,Morning,0
+56.0,Non-Binary,Mobile,Side,News,Morning,0
+29.0,Female,Desktop,Top,Social Media,Morning,0
+43.0,Female,Desktop,Top,Shopping,Night,1
+43.0,Non-Binary,Mobile,Top,Social Media,Night,1
+61.0,Female,Mobile,Side,Entertainment,Night,0
+61.0,Male,Desktop,Side,Social Media,Morning,1
+40.0,Female,Desktop,Bottom,News,Night,0
+46.0,Female,Desktop,Top,Entertainment,Morning,0
+28.0,Female,Desktop,Bottom,News,Evening,1
+34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+41.0,Female,Mobile,Side,News,Afternoon,1
+37.0,Female,Desktop,Top,Entertainment,Evening,1
+26.0,Female,Mobile,Bottom,News,Evening,1
+53.0,Non-Binary,Mobile,Side,Shopping,Evening,0
+31.0,Male,Desktop,Bottom,Shopping,Evening,1
+24.0,Male,Mobile,Bottom,Education,Evening,1
+54.0,Male,Tablet,Side,Education,Evening,1
+42.0,Female,Mobile,Bottom,Shopping,Afternoon,0
+34.0,Male,Mobile,Top,Entertainment,Evening,1
+25.0,Female,Mobile,Bottom,Social Media,Evening,1
+34.0,Male,Tablet,Side,Shopping,Morning,0
+57.0,Female,Desktop,Bottom,Social Media,Afternoon,0
+59.0,Male,Tablet,Side,Social Media,Evening,1
+29.0,Male,Tablet,Top,Education,Night,0
+28.0,Male,Tablet,Top,Shopping,Night,0
+62.0,Female,Desktop,Top,Shopping,Afternoon,1
+49.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+23.0,Non-Binary,Tablet,Side,Entertainment,Morning,0
+20.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+38.0,Female,Desktop,Top,Education,Night,0
+61.0,Male,Desktop,Side,Social Media,Morning,1
+23.0,Female,Desktop,Bottom,Entertainment,Evening,1
+40.0,Non-Binary,Mobile,Top,News,Night,0
+62.0,Non-Binary,Mobile,Bottom,Social Media,Night,0
+26.0,Male,Mobile,Bottom,Education,Evening,1
+44.0,Non-Binary,Mobile,Side,Shopping,Morning,1
+57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+32.0,Non-Binary,Mobile,Top,News,Morning,1
+43.0,Female,Tablet,Bottom,News,Afternoon,1
+59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+57.0,Non-Binary,Mobile,Bottom,News,Night,1
+26.0,Male,Tablet,Bottom,Entertainment,Night,1
+58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+52.0,Female,Tablet,Top,Education,Morning,1
+20.0,Non-Binary,Desktop,Top,Social Media,Morning,0
+22.0,Male,Desktop,Bottom,Entertainment,Night,1
+57.0,Non-Binary,Mobile,Bottom,News,Night,1
+63.0,Female,Desktop,Side,Entertainment,Evening,0
+54.0,Non-Binary,Tablet,Top,Shopping,Morning,0
+24.0,Male,Desktop,Top,Shopping,Evening,0
+28.0,Female,Desktop,Bottom,News,Evening,1
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+39.0,Male,Desktop,Side,Social Media,Night,1
+25.0,Male,Mobile,Bottom,News,Night,0
+45.0,Female,Mobile,Side,Social Media,Morning,1
+25.0,Female,Mobile,Bottom,Social Media,Evening,1
+53.0,Male,Desktop,Bottom,Social Media,Evening,0
+45.0,Male,Desktop,Top,Education,Morning,1
+36.0,Male,Mobile,Side,Shopping,Morning,1
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+58.0,Non-Binary,Desktop,Bottom,Social Media,Night,0
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+39.0,Male,Desktop,Side,Social Media,Night,1
+53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+55.0,Male,Desktop,Bottom,Shopping,Afternoon,0
+34.0,Male,Desktop,Top,News,Night,1
+34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+51.0,Male,Mobile,Bottom,Social Media,Evening,0
+28.0,Female,Mobile,Bottom,Shopping,Morning,1
+56.0,Female,Tablet,Bottom,News,Morning,1
+38.0,Female,Desktop,Top,Entertainment,Evening,0
+26.0,Male,Tablet,Bottom,Entertainment,Night,1
+22.0,Female,Tablet,Bottom,Education,Morning,0
+56.0,Female,Mobile,Bottom,Education,Morning,1
+20.0,Male,Tablet,Side,News,Night,1
+62.0,Non-Binary,Tablet,Side,Shopping,Night,0
+52.0,Non-Binary,Mobile,Bottom,Education,Morning,1
+34.0,Non-Binary,Mobile,Bottom,Social Media,Afternoon,1
+20.0,Female,Mobile,Top,Social Media,Afternoon,1
+49.0,Male,Desktop,Top,Shopping,Morning,1
+21.0,Female,Desktop,Side,News,Afternoon,1
+19.0,Female,Desktop,Top,Shopping,Evening,0
+30.0,Female,Mobile,Top,Social Media,Morning,1
+61.0,Female,Desktop,Side,Shopping,Afternoon,1
+24.0,Male,Desktop,Side,Shopping,Morning,1
+32.0,Non-Binary,Desktop,Bottom,News,Night,0
+53.0,Non-Binary,Mobile,Side,News,Morning,1
+54.0,Male,Desktop,Side,News,Evening,0
+23.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+24.0,Male,Mobile,Side,News,Evening,0
+25.0,Female,Tablet,Bottom,Education,Morning,0
+34.0,Male,Mobile,Top,Entertainment,Evening,1
+59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+46.0,Male,Desktop,Top,Social Media,Night,0
+35.0,Female,Tablet,Top,Education,Evening,1
+40.0,Male,Desktop,Side,Shopping,Afternoon,1
+44.0,Female,Tablet,Top,Shopping,Morning,1
+45.0,Male,Desktop,Top,Education,Morning,1
+36.0,Male,Tablet,Bottom,Shopping,Evening,1
+43.0,Male,Desktop,Bottom,Education,Afternoon,0
+28.0,Non-Binary,Tablet,Bottom,Education,Afternoon,0
+41.0,Non-Binary,Mobile,Side,Education,Night,1
+38.0,Female,Mobile,Side,News,Night,1
+60.0,Female,Desktop,Top,News,Afternoon,0
+27.0,Non-Binary,Tablet,Top,Education,Evening,0
+30.0,Non-Binary,Tablet,Top,News,Morning,1
+37.0,Male,Desktop,Bottom,Entertainment,Evening,0
+53.0,Non-Binary,Mobile,Side,News,Morning,1
+28.0,Male,Desktop,Side,Social Media,Evening,1
+20.0,Male,Mobile,Side,Shopping,Night,1
+32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+44.0,Female,Mobile,Top,Shopping,Afternoon,1
+30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+24.0,Male,Tablet,Side,Social Media,Evening,0
+22.0,Male,Desktop,Bottom,Entertainment,Night,1
+34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+28.0,Female,Mobile,Bottom,Shopping,Morning,1
+62.0,Non-Binary,Desktop,Bottom,News,Morning,1
+38.0,Male,Tablet,Side,Shopping,Night,0
+35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+54.0,Male,Tablet,Top,Education,Night,0
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+63.0,Non-Binary,Desktop,Side,Education,Night,0
+41.0,Male,Tablet,Side,Shopping,Night,0
+43.0,Male,Tablet,Bottom,Education,Afternoon,1
+62.0,Male,Mobile,Top,Social Media,Night,1
+48.0,Non-Binary,Tablet,Side,Entertainment,Evening,0
+56.0,Female,Tablet,Bottom,News,Morning,1
+53.0,Non-Binary,Desktop,Top,Shopping,Afternoon,0
+62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+60.0,Female,Mobile,Bottom,Education,Evening,0
+62.0,Non-Binary,Tablet,Side,Social Media,Afternoon,0
+52.0,Female,Tablet,Top,Education,Morning,1
+56.0,Female,Mobile,Bottom,News,Night,1
+59.0,Male,Tablet,Side,Social Media,Evening,1
+29.0,Male,Mobile,Side,Shopping,Evening,0
+34.0,Male,Mobile,Top,Entertainment,Evening,1
+30.0,Non-Binary,Tablet,Side,Social Media,Evening,1
+27.0,Female,Desktop,Top,Entertainment,Night,0
+58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+54.0,Female,Tablet,Bottom,Education,Morning,0
+61.0,Non-Binary,Desktop,Bottom,Education,Evening,0
+61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+30.0,Non-Binary,Tablet,Top,News,Morning,1
+24.0,Non-Binary,Desktop,Top,Shopping,Night,0
+38.0,Female,Mobile,Side,News,Night,1
+18.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+53.0,Male,Tablet,Bottom,Education,Night,1
+59.0,Male,Tablet,Side,Social Media,Evening,1
+33.0,Male,Desktop,Side,Education,Morning,0
+43.0,Female,Tablet,Bottom,News,Afternoon,1
+24.0,Male,Mobile,Bottom,Education,Evening,1
+51.0,Female,Desktop,Bottom,Education,Evening,0
+31.0,Non-Binary,Tablet,Top,Shopping,Evening,0
+38.0,Female,Mobile,Side,News,Night,1
+36.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+58.0,Male,Desktop,Bottom,Social Media,Evening,1
+34.0,Male,Desktop,Bottom,Social Media,Afternoon,0
+41.0,Female,Mobile,Top,Entertainment,Night,1
+62.0,Female,Desktop,Bottom,Entertainment,Morning,1
+36.0,Female,Desktop,Bottom,Shopping,Morning,1
+30.0,Non-Binary,Tablet,Top,News,Morning,1
+53.0,Male,Tablet,Bottom,Education,Night,1
+57.0,Male,Mobile,Top,News,Evening,1
+41.0,Male,Mobile,Bottom,Social Media,Night,1
+49.0,Non-Binary,Desktop,Top,News,Night,0
+25.0,Male,Desktop,Side,Education,Night,1
+37.0,Male,Desktop,Bottom,Social Media,Afternoon,0
+22.0,Male,Desktop,Side,Shopping,Morning,0
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+29.0,Male,Tablet,Bottom,Shopping,Morning,1
+40.0,Male,Desktop,Side,Shopping,Afternoon,1
+52.0,Female,Tablet,Top,Education,Morning,1
+41.0,Male,Desktop,Side,News,Afternoon,0
+18.0,Male,Desktop,Top,Shopping,Night,0
+26.0,Male,Tablet,Top,Social Media,Night,1
+36.0,Female,Mobile,Top,Shopping,Morning,1
+28.0,Non-Binary,Mobile,Top,Entertainment,Night,0
+34.0,Non-Binary,Desktop,Side,News,Afternoon,0
+44.0,Female,Tablet,Top,Shopping,Morning,1
+34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+18.0,Non-Binary,Tablet,Bottom,Entertainment,Night,0
+21.0,Non-Binary,Mobile,Side,Education,Night,0
+61.0,Male,Mobile,Top,Education,Morning,0
+27.0,Male,Mobile,Side,Education,Morning,0
+22.0,Male,Tablet,Bottom,Entertainment,Night,1
+47.0,Male,Desktop,Bottom,Education,Night,1
+24.0,Female,Desktop,Top,Social Media,Morning,0
+34.0,Female,Mobile,Bottom,Entertainment,Morning,1
+44.0,Non-Binary,Tablet,Side,News,Evening,1
+26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+37.0,Female,Desktop,Top,Entertainment,Morning,0
+60.0,Female,Tablet,Bottom,News,Evening,0
+59.0,Non-Binary,Tablet,Top,Education,Evening,0
+62.0,Female,Desktop,Side,Education,Morning,1
+21.0,Female,Mobile,Side,Social Media,Night,1
+34.0,Female,Mobile,Bottom,Entertainment,Afternoon,1
+42.0,Male,Tablet,Bottom,Shopping,Night,1
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+27.0,Female,Desktop,Bottom,Entertainment,Afternoon,0
+43.0,Male,Mobile,Side,News,Morning,0
+33.0,Female,Mobile,Bottom,News,Night,0
+24.0,Male,Mobile,Top,Entertainment,Night,1
+32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+26.0,Male,Tablet,Top,Social Media,Night,1
+41.0,Female,Mobile,Top,Entertainment,Night,1
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+54.0,Non-Binary,Mobile,Bottom,News,Evening,0
+20.0,Male,Mobile,Side,Shopping,Night,1
+30.0,Female,Mobile,Top,Social Media,Morning,1
+54.0,Female,Tablet,Top,News,Evening,1
+57.0,Male,Mobile,Top,News,Evening,1
+49.0,Male,Mobile,Top,News,Morning,1
+23.0,Non-Binary,Tablet,Top,Education,Morning,1
+20.0,Female,Mobile,Top,Entertainment,Afternoon,1
+26.0,Male,Tablet,Top,Social Media,Night,1
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+24.0,Non-Binary,Desktop,Bottom,Shopping,Afternoon,0
+52.0,Male,Desktop,Top,News,Morning,0
+60.0,Non-Binary,Desktop,Top,Social Media,Night,0
+49.0,Male,Desktop,Top,News,Afternoon,1
+54.0,Female,Tablet,Top,News,Evening,1
+31.0,Male,Desktop,Bottom,Shopping,Evening,1
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,1
+49.0,Non-Binary,Desktop,Bottom,News,Morning,0
+41.0,Male,Desktop,Side,Entertainment,Afternoon,1
+54.0,Male,Tablet,Side,Education,Evening,1
+33.0,Female,Tablet,Top,Social Media,Night,0
+64.0,Male,Tablet,Bottom,News,Afternoon,0
+52.0,Female,Mobile,Top,Social Media,Afternoon,1
+61.0,Non-Binary,Tablet,Bottom,News,Afternoon,1
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+18.0,Female,Tablet,Side,News,Morning,0
+35.0,Female,Tablet,Top,Education,Evening,1
+19.0,Female,Tablet,Bottom,Social Media,Morning,1
+36.0,Male,Mobile,Side,Shopping,Morning,1
+53.0,Male,Mobile,Top,News,Afternoon,1
+39.0,Male,Desktop,Side,Social Media,Night,1
+26.0,Non-Binary,Mobile,Top,Social Media,Evening,1
+34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+36.0,Male,Mobile,Side,Shopping,Morning,1
+41.0,Female,Mobile,Top,Entertainment,Night,1
+22.0,Male,Mobile,Bottom,Social Media,Morning,0
+58.0,Non-Binary,Mobile,Side,Entertainment,Evening,1
+59.0,Female,Mobile,Side,Social Media,Night,0
+55.0,Female,Tablet,Side,News,Afternoon,0
+36.0,Male,Tablet,Bottom,Shopping,Evening,1
+20.0,Male,Tablet,Side,News,Night,1
+39.0,Male,Desktop,Top,Social Media,Night,0
+34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+47.0,Non-Binary,Tablet,Bottom,Social Media,Evening,0
+39.0,Male,Mobile,Bottom,Education,Morning,1
+28.0,Non-Binary,Mobile,Bottom,Social Media,Evening,1
+35.0,Female,Desktop,Side,Shopping,Evening,0
+32.0,Female,Mobile,Bottom,Shopping,Evening,0
+59.0,Male,Tablet,Side,Social Media,Evening,1
+44.0,Non-Binary,Tablet,Side,News,Evening,1
+59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+25.0,Female,Mobile,Top,Social Media,Evening,0
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+33.0,Non-Binary,Tablet,Top,Entertainment,Evening,0
+32.0,Non-Binary,Mobile,Top,News,Morning,1
+63.0,Female,Desktop,Side,Shopping,Evening,0
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+35.0,Female,Tablet,Top,Education,Evening,1
+39.0,Male,Mobile,Side,Entertainment,Night,0
+56.0,Female,Mobile,Bottom,Social Media,Afternoon,0
+21.0,Female,Mobile,Side,Social Media,Night,1
+28.0,Female,Mobile,Top,Education,Evening,0
+40.0,Non-Binary,Tablet,Side,News,Morning,0
+54.0,Female,Tablet,Top,Education,Night,1
+36.0,Non-Binary,Desktop,Bottom,Shopping,Night,0
+32.0,Female,Desktop,Side,News,Afternoon,0
+48.0,Non-Binary,Mobile,Top,News,Morning,0
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+43.0,Male,Tablet,Bottom,Education,Afternoon,1
+42.0,Male,Tablet,Top,Education,Night,0
+32.0,Female,Mobile,Side,Shopping,Evening,0
+49.0,Male,Mobile,Top,News,Morning,1
+30.0,Female,Tablet,Side,News,Morning,0
+62.0,Female,Desktop,Side,Education,Morning,1
+27.0,Female,Tablet,Top,Shopping,Night,0
+50.0,Male,Tablet,Bottom,Entertainment,Morning,0
+21.0,Female,Mobile,Bottom,Entertainment,Evening,0
+57.0,Non-Binary,Desktop,Bottom,Entertainment,Night,1
+57.0,Non-Binary,Mobile,Side,Social Media,Evening,1
+64.0,Female,Mobile,Top,Entertainment,Afternoon,0
+28.0,Male,Desktop,Side,Social Media,Evening,1
+42.0,Non-Binary,Desktop,Top,Social Media,Night,1
+29.0,Male,Tablet,Side,Education,Afternoon,1
+44.0,Non-Binary,Tablet,Side,News,Evening,1
+52.0,Female,Desktop,Side,Education,Morning,0
+28.0,Male,Desktop,Side,Social Media,Evening,1
+51.0,Female,Mobile,Top,News,Evening,0
+32.0,Non-Binary,Desktop,Top,Entertainment,Night,1
+59.0,Female,Tablet,Bottom,Entertainment,Morning,0
+27.0,Female,Desktop,Top,News,Night,0
+43.0,Female,Tablet,Bottom,News,Afternoon,1
+39.0,Non-Binary,Tablet,Top,News,Evening,0
+42.0,Non-Binary,Tablet,Bottom,Social Media,Evening,0
+20.0,Non-Binary,Mobile,Top,Education,Night,0
+30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+43.0,Non-Binary,Mobile,Top,Shopping,Afternoon,1
+28.0,Female,Mobile,Bottom,Shopping,Morning,1
+62.0,Female,Desktop,Side,Education,Morning,1
+43.0,Male,Desktop,Bottom,Shopping,Evening,0
+32.0,Female,Mobile,Side,Entertainment,Night,0
+26.0,Non-Binary,Desktop,Top,Entertainment,Afternoon,1
+62.0,Female,Desktop,Side,Education,Morning,1
+59.0,Male,Desktop,Top,Entertainment,Afternoon,1
+51.0,Non-Binary,Tablet,Top,Shopping,Afternoon,1
+42.0,Male,Tablet,Bottom,Shopping,Afternoon,0
+36.0,Female,Mobile,Top,Shopping,Morning,1
+35.0,Non-Binary,Tablet,Bottom,Education,Night,1
+34.0,Non-Binary,Tablet,Side,News,Evening,0
+63.0,Male,Desktop,Side,Social Media,Evening,1
+49.0,Male,Mobile,Top,News,Morning,1
+23.0,Non-Binary,Tablet,Top,Education,Morning,1
+24.0,Male,Mobile,Bottom,Education,Evening,1
+34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+41.0,Non-Binary,Mobile,Side,Education,Night,1
+62.0,Female,Desktop,Side,Education,Morning,1
+56.0,Female,Mobile,Bottom,News,Night,1
+62.0,Female,Desktop,Side,Education,Morning,1
+27.0,Female,Mobile,Top,News,Night,0
+58.0,Non-Binary,Desktop,Side,News,Night,0
+52.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+34.0,Male,Desktop,Bottom,Entertainment,Evening,1
+50.0,Non-Binary,Tablet,Top,Education,Morning,0
+24.0,Female,Mobile,Side,Social Media,Morning,0
+61.0,Female,Tablet,Bottom,Shopping,Evening,1
+36.0,Male,Tablet,Bottom,Shopping,Evening,1
+59.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+59.0,Non-Binary,Mobile,Top,News,Night,0
+34.0,Male,Desktop,Top,News,Night,1
+29.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+29.0,Male,Mobile,Bottom,Entertainment,Afternoon,0
+54.0,Male,Desktop,Side,Entertainment,Afternoon,0
+22.0,Male,Desktop,Bottom,Entertainment,Night,1
+57.0,Male,Tablet,Bottom,Social Media,Evening,0
+41.0,Female,Mobile,Side,News,Afternoon,1
+29.0,Male,Desktop,Side,Shopping,Afternoon,1
+61.0,Male,Desktop,Side,Social Media,Morning,1
+58.0,Male,Tablet,Top,Social Media,Night,0
+48.0,Male,Tablet,Bottom,Entertainment,Evening,0
+38.0,Non-Binary,Tablet,Bottom,Entertainment,Night,1
+62.0,Female,Mobile,Top,Shopping,Afternoon,0
+39.0,Male,Mobile,Bottom,Education,Morning,1
+59.0,Non-Binary,Mobile,Bottom,Education,Evening,1
+57.0,Male,Mobile,Top,News,Evening,1
+43.0,Female,Tablet,Bottom,News,Afternoon,1
+52.0,Male,Mobile,Bottom,Shopping,Night,1
+46.0,Female,Tablet,Side,Entertainment,Morning,1
+47.0,Male,Desktop,Bottom,Education,Night,1
+30.0,Female,Desktop,Bottom,Entertainment,Afternoon,1
+30.0,Non-Binary,Mobile,Side,Social Media,Night,0
+46.0,Non-Binary,Mobile,Bottom,News,Afternoon,1
+38.0,Female,Mobile,Side,News,Night,1
+56.0,Female,Tablet,Side,Social Media,Night,0
+31.0,Male,Desktop,Bottom,Shopping,Evening,1
+53.0,Female,Tablet,Bottom,Entertainment,Afternoon,1
+21.0,Female,Mobile,Side,Social Media,Night,1
+56.0,Female,Mobile,Bottom,Education,Morning,1
+63.0,Non-Binary,Tablet,Side,Education,Evening,0
+34.0,Non-Binary,Desktop,Top,Shopping,Afternoon,1
+45.0,Male,Tablet,Bottom,Social Media,Night,0
+31.0,Non-Binary,Tablet,Top,Social Media,Afternoon,1
+44.0,Female,Tablet,Top,Shopping,Morning,1
+18.0,Female,Desktop,Bottom,News,Night,0
+21.0,Female,Mobile,Side,Social Media,Night,1
+61.0,Female,Desktop,Side,Shopping,Afternoon,1
+26.0,Male,Mobile,Top,Entertainment,Evening,0
+61.0,Male,Desktop,Side,Social Media,Morning,1
+49.0,Female,Desktop,Side,News,Evening,0
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+57.0,Male,Mobile,Top,News,Evening,1
+38.0,Female,Mobile,Side,News,Night,1
+29.0,Female,Desktop,Side,News,Evening,0
+35.0,Female,Tablet,Top,Education,Evening,1
+32.0,Female,Mobile,Bottom,Entertainment,Morning,0
+53.0,Male,Desktop,Top,Social Media,Morning,0
+53.0,Male,Desktop,Side,Education,Afternoon,0
+55.0,Male,Mobile,Top,Social Media,Morning,0
+22.0,Male,Mobile,Side,Education,Evening,0
+58.0,Non-Binary,Desktop,Top,Education,Afternoon,1
+58.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+25.0,Male,Tablet,Side,Shopping,Morning,0
+61.0,Female,Desktop,Side,Shopping,Afternoon,1
+28.0,Male,Mobile,Bottom,Shopping,Afternoon,1
+45.0,Male,Desktop,Top,Education,Morning,1
+20.0,Male,Desktop,Bottom,Shopping,Night,0
+24.0,Male,Mobile,Top,Entertainment,Night,1
+32.0,Non-Binary,Desktop,Side,Social Media,Night,1
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+43.0,Non-Binary,Mobile,Side,Entertainment,Night,1
+43.0,Non-Binary,Mobile,Top,Social Media,Morning,0
+28.0,Female,Desktop,Bottom,News,Evening,1
+41.0,Non-Binary,Mobile,Side,Education,Night,1
+64.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+52.0,Female,Desktop,Bottom,Shopping,Afternoon,1
+44.0,Male,Tablet,Top,Social Media,Morning,0
+62.0,Male,Mobile,Top,Education,Afternoon,0
+52.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+54.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+53.0,Non-Binary,Tablet,Bottom,Education,Evening,0
+24.0,Male,Tablet,Side,Social Media,Evening,0
+62.0,Female,Mobile,Side,Entertainment,Afternoon,0
+62.0,Male,Mobile,Top,Education,Afternoon,0
+21.0,Non-Binary,Desktop,Bottom,News,Night,0
+18.0,Non-Binary,Tablet,Bottom,Entertainment,Night,0
+21.0,Female,Tablet,Top,Social Media,Afternoon,0
+23.0,Male,Tablet,Side,Social Media,Morning,0
+46.0,Female,Desktop,Top,Entertainment,Morning,0
+56.0,Non-Binary,Desktop,Side,Shopping,Night,0
+61.0,Female,Mobile,Side,Entertainment,Night,0
+52.0,Female,Desktop,Side,Education,Morning,0
+22.0,Male,Mobile,Side,Education,Evening,0
+63.0,Non-Binary,Desktop,Side,Education,Night,0
+54.0,Male,Desktop,Side,Entertainment,Afternoon,0
+20.0,Non-Binary,Tablet,Side,Entertainment,Afternoon,0
+26.0,Male,Desktop,Side,Entertainment,Night,0
+30.0,Female,Tablet,Side,News,Morning,0
+55.0,Female,Tablet,Side,News,Afternoon,0
+29.0,Female,Mobile,Top,Entertainment,Afternoon,0
+38.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+53.0,Male,Desktop,Bottom,Social Media,Evening,0
+37.0,Male,Desktop,Bottom,Entertainment,Evening,0
+52.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+38.0,Male,Tablet,Side,Shopping,Night,0
+22.0,Female,Tablet,Bottom,Education,Morning,0
+36.0,Female,Desktop,Top,Education,Evening,0
+30.0,Male,Mobile,Side,Shopping,Morning,0
+39.0,Male,Mobile,Side,Entertainment,Night,0
+56.0,Non-Binary,Desktop,Side,Shopping,Night,0
+22.0,Female,Tablet,Top,Education,Morning,0
+62.0,Female,Mobile,Side,Entertainment,Afternoon,0
+54.0,Non-Binary,Tablet,Top,Shopping,Morning,0
+59.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+50.0,Female,Mobile,Top,Shopping,Afternoon,0
+50.0,Non-Binary,Desktop,Side,Education,Night,0
+33.0,Non-Binary,Tablet,Top,Entertainment,Evening,0
+43.0,Male,Desktop,Bottom,Shopping,Evening,0
+60.0,Female,Mobile,Side,Shopping,Afternoon,0
+59.0,Non-Binary,Tablet,Bottom,News,Morning,0
+20.0,Non-Binary,Mobile,Top,Education,Night,0
+58.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+31.0,Non-Binary,Tablet,Top,Shopping,Evening,0
+38.0,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,0
+34.0,Male,Mobile,Side,Social Media,Night,0
+59.0,Female,Desktop,Bottom,Social Media,Morning,0
+33.0,Male,Tablet,Top,News,Night,0
+35.0,Female,Mobile,Bottom,Social Media,Evening,0
+59.0,Female,Tablet,Bottom,Entertainment,Morning,0
+54.0,Male,Tablet,Top,Education,Night,0
+27.0,Male,Mobile,Side,Education,Morning,0
+27.0,Female,Mobile,Side,News,Night,0
+38.0,Female,Desktop,Top,Education,Night,0
+24.0,Non-Binary,Desktop,Top,Shopping,Night,0
+58.0,Non-Binary,Desktop,Side,News,Night,0
+52.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+18.0,Non-Binary,Tablet,Bottom,Entertainment,Night,0
+32.0,Female,Mobile,Side,Shopping,Evening,0
+38.0,Male,Tablet,Side,Shopping,Night,0
+25.0,Male,Tablet,Side,Shopping,Morning,0
+28.0,Non-Binary,Mobile,Top,Entertainment,Night,0
+49.0,Non-Binary,Desktop,Top,News,Night,0
+39.0,Male,Desktop,Top,Social Media,Night,0
+60.0,Female,Mobile,Side,Shopping,Afternoon,0
+48.0,Male,Tablet,Bottom,Entertainment,Evening,0
+61.0,Male,Mobile,Top,Education,Morning,0
+32.0,Female,Mobile,Side,Shopping,Evening,0
+37.0,Male,Desktop,Bottom,Entertainment,Evening,0
+52.0,Non-Binary,Tablet,Bottom,News,Afternoon,0
+29.0,Male,Tablet,Top,Education,Night,0
+36.0,Male,Tablet,Top,Shopping,Night,0
+64.0,Male,Tablet,Top,Entertainment,Morning,0
+35.0,Female,Mobile,Bottom,Social Media,Night,0
+58.0,Male,Tablet,Side,Education,Night,0
+39.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+37.0,Female,Desktop,Side,News,Evening,0
+38.0,Non-Binary,Desktop,Bottom,News,Night,0
+38.0,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,0
+40.0,Non-Binary,Mobile,Top,News,Night,0
+29.0,Female,Desktop,Side,News,Evening,0
+27.0,Female,Desktop,Top,News,Night,0
+33.0,Female,Tablet,Top,Social Media,Night,0
+52.0,Non-Binary,Tablet,Bottom,News,Afternoon,0
+53.0,Non-Binary,Desktop,Side,Shopping,Morning,0
+22.0,Female,Tablet,Top,Education,Morning,0
+61.0,Non-Binary,Desktop,Bottom,Education,Evening,0
+34.0,Non-Binary,Tablet,Side,News,Evening,0
+43.0,Non-Binary,Desktop,Side,News,Evening,0
+28.0,Female,Mobile,Bottom,Education,Afternoon,0
+37.0,Non-Binary,Mobile,Top,News,Evening,0
+21.0,Non-Binary,Mobile,Side,Education,Night,0
+55.0,Male,Mobile,Top,Social Media,Morning,0
+47.0,Male,Desktop,Side,News,Night,0
+55.0,Male,Desktop,Bottom,Shopping,Afternoon,0
+34.0,Non-Binary,Desktop,Side,News,Afternoon,0
+58.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+24.0,Non-Binary,Desktop,Bottom,Shopping,Afternoon,0
+50.0,Female,Tablet,Side,Social Media,Morning,0
+56.0,Non-Binary,Desktop,Side,Shopping,Night,0
+64.0,Female,Mobile,Top,Entertainment,Afternoon,0
+39.0,Non-Binary,Mobile,Side,Social Media,Afternoon,0
+27.0,Male,Mobile,Side,Education,Morning,0
+50.0,Male,Tablet,Bottom,Entertainment,Morning,0
+56.0,Female,Tablet,Side,Social Media,Night,0
+34.0,Male,Desktop,Bottom,Social Media,Afternoon,0
+36.0,Male,Tablet,Top,Shopping,Night,0
+54.0,Non-Binary,Tablet,Bottom,Shopping,Night,0
+54.0,Male,Desktop,Side,News,Evening,0
+37.0,Female,Desktop,Side,News,Evening,0
+33.0,Female,Tablet,Top,Social Media,Night,0
+25.0,Female,Mobile,Top,Social Media,Evening,0
+22.0,Female,Mobile,Side,Entertainment,Evening,0
+64.0,Non-Binary,Mobile,Bottom,Social Media,Evening,0
+59.0,Non-Binary,Tablet,Top,Education,Evening,0
+33.0,Female,Tablet,Top,Social Media,Night,0
+39.0,Male,Desktop,Top,Social Media,Night,0
+29.0,Male,Mobile,Side,Entertainment,Afternoon,0
+58.0,Non-Binary,Desktop,Bottom,Social Media,Night,0
+57.0,Male,Desktop,Side,Social Media,Evening,0
+41.0,Male,Tablet,Top,Shopping,Night,0
+53.0,Female,Desktop,Top,Social Media,Night,0
+23.0,Non-Binary,Tablet,Side,Entertainment,Morning,0
+27.0,Non-Binary,Tablet,Top,Education,Evening,0
+63.0,Female,Desktop,Side,Shopping,Evening,0
+21.0,Non-Binary,Tablet,Bottom,Entertainment,Morning,0
+63.0,Non-Binary,Tablet,Side,Education,Evening,0
+37.0,Female,Desktop,Side,Entertainment,Afternoon,0
+53.0,Male,Desktop,Bottom,Social Media,Evening,0
+37.0,Non-Binary,Desktop,Side,Education,Afternoon,0
+37.0,Non-Binary,Mobile,Top,News,Evening,0
+22.0,Female,Tablet,Side,Entertainment,Afternoon,0
+63.0,Non-Binary,Tablet,Side,Education,Evening,0
+53.0,Non-Binary,Desktop,Side,Shopping,Morning,0
+38.0,Non-Binary,Tablet,Top,Social Media,Afternoon,0
+27.0,Female,Mobile,Side,News,Night,0
+18.0,Female,Desktop,Bottom,News,Night,0
+28.0,Female,Tablet,Side,Shopping,Morning,0
+33.0,Female,Tablet,Top,Social Media,Night,0
+38.0,Male,Tablet,Side,Shopping,Night,0
+33.0,Female,Mobile,Bottom,News,Night,0
+56.0,Female,Tablet,Side,Social Media,Night,0
+52.0,Female,Desktop,Bottom,Education,Afternoon,0
+33.0,Female,Desktop,Bottom,News,Afternoon,0
+18.0,Female,Tablet,Side,News,Morning,0
+51.0,Female,Mobile,Top,News,Evening,0
+29.0,Male,Mobile,Side,Shopping,Evening,0
+51.0,Female,Mobile,Top,News,Evening,0
+20.0,Non-Binary,Desktop,Top,Social Media,Morning,0
+33.0,Female,Mobile,Bottom,News,Night,0
+22.0,Male,Mobile,Bottom,Social Media,Morning,0
+55.0,Male,Desktop,Bottom,Shopping,Afternoon,0
+46.0,Female,Desktop,Top,Entertainment,Morning,0
+23.0,Non-Binary,Tablet,Side,Entertainment,Morning,0
+64.0,Non-Binary,Mobile,Bottom,Social Media,Evening,0
+18.0,Female,Tablet,Side,News,Morning,0
+23.0,Non-Binary,Desktop,Top,Entertainment,Morning,0
+36.0,Male,Mobile,Top,Entertainment,Night,0
+22.0,Female,Mobile,Side,Entertainment,Evening,0
+34.0,Non-Binary,Tablet,Side,News,Evening,0
+58.0,Non-Binary,Desktop,Side,Shopping,Afternoon,0
+36.0,Male,Mobile,Top,Entertainment,Night,0
+50.0,Female,Tablet,Side,Social Media,Morning,0
+36.0,Male,Mobile,Top,Entertainment,Night,0
+38.0,Non-Binary,Desktop,Bottom,Entertainment,Afternoon,0
+27.0,Non-Binary,Tablet,Top,Education,Evening,0
+36.0,Male,Mobile,Top,Entertainment,Night,0
+59.0,Female,Desktop,Bottom,Social Media,Morning,0
+43.0,Non-Binary,Mobile,Bottom,Entertainment,Afternoon,0
+37.0,Female,Desktop,Top,Entertainment,Morning,0
+33.0,Male,Tablet,Top,News,Night,0
+43.0,Male,Mobile,Side,News,Morning,0
+33.0,Female,Mobile,Bottom,News,Night,0
+64.0,Female,Mobile,Side,Shopping,Evening,0
+43.0,Non-Binary,Mobile,Bottom,Entertainment,Afternoon,0
+60.0,Female,Mobile,Side,Shopping,Afternoon,0
+55.0,Male,Desktop,Bottom,Shopping,Afternoon,0
+27.0,Male,Mobile,Side,Education,Morning,0
+23.0,Non-Binary,Tablet,Side,Entertainment,Morning,0
+29.0,Male,Mobile,Side,Shopping,Evening,0
+40.0,Non-Binary,Tablet,Side,News,Morning,0
+18.0,Non-Binary,Desktop,Bottom,Shopping,Evening,0
+43.0,Male,Desktop,Bottom,Education,Afternoon,0
+36.0,Female,Desktop,Top,Education,Morning,0
+50.0,Male,Tablet,Bottom,Entertainment,Morning,0
+22.0,Male,Mobile,Side,Education,Evening,0
+48.0,Male,Tablet,Bottom,Entertainment,Evening,0
+49.0,Female,Tablet,Side,Shopping,Evening,0
+29.0,Male,Mobile,Side,Shopping,Evening,0
+32.0,Female,Mobile,Bottom,Shopping,Evening,0
+24.0,Female,Desktop,Side,News,Afternoon,0
+52.0,Male,Desktop,Bottom,News,Morning,0
+61.0,Non-Binary,Desktop,Bottom,Education,Evening,0
+25.0,Male,Mobile,Side,Entertainment,Morning,0
+27.0,Non-Binary,Tablet,Top,Education,Evening,0
+51.0,Female,Mobile,Top,News,Evening,0
+56.0,Non-Binary,Mobile,Side,News,Morning,0
+32.0,Female,Mobile,Side,Shopping,Evening,0
+45.0,Male,Mobile,Top,Entertainment,Morning,0
+56.0,Non-Binary,Mobile,Side,News,Morning,0
+27.0,Female,Desktop,Top,Entertainment,Night,0
+28.0,Female,Tablet,Side,Shopping,Morning,0
+53.0,Male,Mobile,Top,Education,Afternoon,0
+58.0,Male,Tablet,Side,Education,Night,0
+42.0,Male,Tablet,Bottom,Shopping,Afternoon,0
+40.0,Female,Desktop,Bottom,News,Night,0
+43.0,Non-Binary,Mobile,Top,Social Media,Morning,0
+47.0,Male,Desktop,Side,News,Night,0
+42.0,Non-Binary,Tablet,Bottom,Social Media,Evening,0
+32.0,Female,Mobile,Side,Shopping,Evening,0
+24.0,Female,Desktop,Side,News,Afternoon,0
+36.0,Female,Tablet,Bottom,Education,Morning,0
+46.0,Female,Tablet,Top,Social Media,Morning,0
+59.0,Female,Desktop,Bottom,Social Media,Morning,0
