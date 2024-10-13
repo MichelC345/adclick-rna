@@ -1,9 +1,16 @@
 "use client";
 import {useState, useEffect} from 'react';
 import { useSearchParams } from 'next/navigation';
+import { Button } from '@/components/ui/button';
+import { useRouter } from 'next/navigation';
 
 export default function AdPositions() {
-  //const router = useRouter();
+  const router = useRouter();
+
+  const returnToUserForm = () => {
+    router.push(`/`);
+  };
+  
   const [userData, setUserData] = useState({
     age: 0,
     gender: "",
@@ -58,37 +65,57 @@ export default function AdPositions() {
     }
   };
 
+  const getIcon = (percentage) => {
+    console.log(percentage);
+    return percentage > 50 ? "🟢" : "🔴"; // Using green and red circle emojis
+  };
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h2>Selecione a hora do dia</h2>
-      <select value={timeOfDay} onChange={(e) => setTimeOfDay(e.target.value)}>
-        <option value="Morning">Manhã</option>
-        <option value="Afternoon">Tarde</option>
-        <option value="Evening">Final de Tarde</option>
-        <option value="Night">Noite</option>
-      </select>
+    <div className="ad-positions-container">
+      <div className="ad-positions-left-container">
+        <h2>Selecione a hora do dia</h2>
+        <select value={timeOfDay} onChange={(e) => setTimeOfDay(e.target.value)}>
+          <option value="Morning">Manhã</option>
+          <option value="Afternoon">Tarde</option>
+          <option value="Evening">Final de Tarde</option>
+          <option value="Night">Noite</option>
+        </select>
 
-      <h2>Anúncios exibidos</h2>
-      {userData && (
-        <div>
-          <p>Age: {userData.age}</p>
-          <p>Gender: {userData.gender}</p>
-          <p>History: {userData.history}</p>
-          <p>Device: {userData.device}</p>
+        <div className="ad-positions-user-data">
+          <h2>Dados do usuário</h2>
+          {userData && (
+            <div>
+              <p>Idade: {userData.age}</p>
+              <p>Gênero: {userData.gender}</p>
+              <p>Histórico: {userData.history}</p>
+              <p>Dispositivo: {userData.device}</p>
+            </div>
+          )}
         </div>
-      )}
-      <div className="ad-positions">
-        {['top', 'bottom', 'left', 'right'].map((position) => (
-          <div key={position} className={`ad-position ${position}`}>
-            <p>{position.toUpperCase()}: {adData[position]}%</p>
-            {adData[position] > 50 ? (
-              <span className="icon green">✔️</span>
-            ) : (
-              <span className="icon red">❌</span>
-            )}
-          </div>
-        ))}
       </div>
+
+
+      <div className="ad-positions">
+        <h2>Anúncios exibidos</h2>
+        <div className="ad-top">
+          {getIcon(adData.top)} {adData.top}% Superior
+        </div>
+        <div className="ad-left">
+          {getIcon(adData.left)} {adData.left}% Esquerda
+        </div>
+        <div className="ad-bottom">
+          {getIcon(adData.bottom)} {adData.bottom}% Inferior
+        </div>
+        <div className="ad-right">
+          {getIcon(adData.right)} {adData.right}% Direita
+        </div>
+      </div>
+    </div>
+
+    <Button type="submit" className="ad-positions-return-btn w-full" onClick={returnToUserForm}>
+      Voltar ao início
+    </Button>
     </main>
   );
 }

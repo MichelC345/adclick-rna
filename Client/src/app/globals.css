@@ -67,3 +67,60 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* Style the main container */
+.ad-positions-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  width: 1024px;
+  height: 768px;
+}
+
+/* Left select option styling */
+.ad-positions-left-container {
+  flex-basis: 20%;
+}
+
+.ad-positions-left-container .ad-positions-user-data {
+  margin-top: 50%;
+}
+
+/* Ad positions container styling */
+.ad-positions {
+  position: relative;
+  flex-basis: 70%;
+  height: 300px; /* Set a height for demonstration */
+  border: 1px solid #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+/* Styling each position */
+.ad-top {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.ad-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.ad-left {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+.ad-right {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+}
