@@ -94,10 +94,11 @@ def predict_click(data: UserData, adPosition):
     prediction = model(features)
     print("prediction:", prediction)
     # Convert prediction to binary class (0 or 1)
-    predicted_class = tf.cast(prediction > 0.5, tf.int32).numpy().item()
+    #predicted_class = tf.cast(prediction > 0.5, tf.int32).numpy().item()
 
-    print("predicted class:", predicted_class)
-    return predicted_class
+    #print("predicted class:", predicted_class)
+    #return predicted_class
+    return tf.cast(prediction, tf.float32).numpy().item()
 
 # Run the server: uvicorn app:app --reload
 @app.post("/ad-positions")
@@ -109,10 +110,11 @@ def get_ad_positions(data: UserData):
         # Logic to determine click probability based on position and time of day
         #return np.random.randint(0, 100)
         pred = predict_click(data, position)
-        if (pred): 
-            return 100 
-        else: 
-            return 0
+        #if (pred): 
+         #   return 100 
+        #else: 
+         #   return 0
+        return 100*pred
 
     positions = {
         "top": calculate_position_probability("Top"),

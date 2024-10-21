@@ -56,7 +56,7 @@ const formSchema = z
   );*/
 
 
-const UserForm = () => {
+const HypotheticalUserForm = () => {
   const router = useRouter();
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -76,7 +76,7 @@ const UserForm = () => {
       pathname: '/ad-positions',
       query: values,
     });*/
-    router.push(`/show-ad?age=${values.age}&gender=${values.gender}&history=${values.history}&device=${values.device}`);
+    router.push(`/ad-positions?age=${values.age}&gender=${values.gender}&history=${values.history}&device=${values.device}`);
   };
 
   return (
@@ -189,4 +189,4 @@ const UserForm = () => {
   );
 }
 
-export default UserForm;
+export default HypotheticalUserForm;
