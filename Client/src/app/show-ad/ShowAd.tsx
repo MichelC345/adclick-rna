@@ -1,5 +1,6 @@
+"use client";
 import {useState, useEffect} from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 
 export default function ShowAd() {
@@ -11,7 +12,7 @@ export default function ShowAd() {
     timeOfDay: ""
   });
 
-  const adPositions = ["ad-top", "ad-left", "ad-bottom", "ad-right"];
+  const adPositions = ["top", "left", "bottom", "right"];
 
   /*useEffect(() => {
     if (router.isReady) {
@@ -57,9 +58,10 @@ export default function ShowAd() {
     }
   };*/
 
-  const randomAdPosition = () => {
-    let index = Math.floor(Math.random() * 4); //n° aleatório de 0-3
-    return adPositions[index]; 
+  let index = Math.floor(Math.random() * 4); //define aleatoriamente a posição onde o anúncio será exibido
+  const router = useRouter();
+  const handleAdClick = (values, index) => {
+    router.push(`/ad-clicked?age=${values.age}&gender=${values.gender}&history=${values.history}&device=${values.device}&positionIndex=${index}`)
   }
 
   return (
@@ -82,7 +84,7 @@ export default function ShowAd() {
 
       <div className="ad-positions">
         <h2>Exibição de anúncio</h2>
-        <Button className={randomAdPosition()}>
+        <Button className={"ad-" + adPositions[index]} onClick={() => handleAdClick(userData, index)}>
             Anúncio exibido
         </Button>
       </div>
