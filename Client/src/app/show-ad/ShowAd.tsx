@@ -38,12 +38,12 @@ export default function ShowAd() {
     }
   }, [userData.timeOfDay]);*/
 
-  /*const storeAdData = async () => {
+  const storeAdData = async () => {
     //console.log(userData, timeOfDay);
     try { //envia uma requisição para armazenar os dados do usuário
             
         console.log("fazendo uma requisição passando", userData);
-        const response = await fetch(`http://localhost:8000/show-ad`, {
+        const response = await fetch(`http://localhost:8000/store-ad`, {
             method: "POST",
             headers: {
             "Content-Type": "application/json",
@@ -52,16 +52,32 @@ export default function ShowAd() {
         });
         const data = await response.json();
         console.log(data);
-        setAdData(data.positions);
+        //setAdData(data.positions);
     } catch (error) {
         console.error("Error fetching ad data:", error);
     }
-  };*/
+  };
+  
+  const getTimeOfDay = () => {
+    const d = new Date();
+    const h = d.getHours();
+    if (h >= 6 && h < 12) {
+      return "Morning";
+    }else if (h >= 12 && h < 17) {
+      return "Afternoon";
+    }else if (h >= 17 && h <= 21) {
+      return "Evening";
+    }else {
+      return "Night";
+    }
+  }
 
   let index = Math.floor(Math.random() * 4); //define aleatoriamente a posição onde o anúncio será exibido
   const router = useRouter();
-  const handleAdClick = (values, index) => {
-    router.push(`/ad-clicked?age=${values.age}&gender=${values.gender}&history=${values.history}&device=${values.device}&positionIndex=${index}`)
+  const handleAdClick = (userData, index) => {
+    userData.timeOfDay = getTimeOfDay();
+    //storeAdData(userData, index);
+    router.push(`/ad-clicked?age=${userData.age}&gender=${userData.gender}&history=${userData.history}&device=${userData.device}&positionIndex=${index}`)
   }
 
   return (

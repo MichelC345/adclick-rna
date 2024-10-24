@@ -15,7 +15,7 @@ export default function AdPositionsPage() {
   const router = useRouter();
 
   const returnToUserForm = () => {
-    router.push(`/admin`);
+    router.push(`/user`);
   };
 
   return (

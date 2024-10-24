@@ -1,9 +1,13 @@
 "use client";
 import { useSearchParams } from 'next/navigation';
+import { Button } from '@/components/ui/button';
+import { useRouter } from 'next/navigation';
 
 
 
 const AdClicked = () => {
+    const router = useRouter();
+
     const searchParams = useSearchParams();
     const positions = ["Superior", "Esquerda", "Inferior", "Direita"];
     let index = searchParams.get('positionIndex');
@@ -15,6 +19,7 @@ const AdClicked = () => {
                 {index ? `Você clicou em um anúncio exibido na parte ${positions[index]} da página!`
                         : "O parâmetro de posição está nulo."}
             </h2>
+            <Button onClick={() => router.back()}>Retornar</Button>
         </main>
     );
 }
