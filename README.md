@@ -28,7 +28,7 @@ Dentro de /Server
 
 ```bash
 #instalação dos pacotes
-pip install fastapi uvicorn impbalance pandas seaborn numpy tensorflow sklearn
+pip install fastapi uvicorn impbalance pandas seaborn numpy tensorflow sklearn psycopg2
 #execução
 uvicorn app.app:app --reload
 ```
