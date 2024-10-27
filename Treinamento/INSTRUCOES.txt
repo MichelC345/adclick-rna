@@ -1,0 +1,7 @@
+Como realizar o treinamento:
+
+É necessário ter instalado o python (preferencialmente versão >= 3.10 e <= 3.12) na máquina. Após isso, realize a instalação dos pacotes necessários com o comando:
+
+pip install jupyterlab sklearn impbalance pandas numpy tensorflow seaborn matplotlib fastapi SQLAlchemy uvicorn
+
+Abra o terminal neste diretório, e execute o comando jupyter-lab. Em alguns instantes o notebook poderá ser acessado em localhost:8888. Execute todos os trechos de código e a RNA treinada estará salva em "adclick_model.keras". Mova este arquivo para o diretório "Server" para que o uso da aplicação torne-se possível.

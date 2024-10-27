@@ -10,12 +10,6 @@ export default function AdPositions() {
     timeOfDay: ""
   });
 
-  /*useEffect(() => {
-    if (router.isReady) {
-      const { age, gender, history, device } = router.query;
-      setUserData({ age, gender, history, device });
-    }
-  }, [router.isReady, router.query]); */
   const searchParams = useSearchParams();
 
   const age = searchParams.get('age');
@@ -35,16 +29,15 @@ export default function AdPositions() {
   });
 
   useEffect(() => {
-    console.log("mudei a hora do dia");
+    //console.log("mudei a hora do dia");
     if (userData.age && userData.gender && userData.history && userData.device) {
       fetchAdData(); //sempre que mudar a hora do dia, atualiza os dados
     }
   }, [userData.timeOfDay]);
 
   const fetchAdData = async () => {
-    //console.log(userData, timeOfDay);
     try {
-      console.log("fazendo uma requisição passando", userData);
+      console.log("fazendo uma requisição de predição passando", userData);
       const response = await fetch(`http://localhost:8000/ad-positions`, {
         method: "POST",
         headers: {
@@ -61,7 +54,7 @@ export default function AdPositions() {
   };
 
   const getIcon = (percentage) => {
-    console.log(percentage);
+    //console.log(percentage);
     return percentage > 50 ? "🟢" : "🔴"; // Using green and red circle emojis
   };
 

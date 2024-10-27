@@ -19,7 +19,7 @@ const AdClicked = () => {
                 {index ? `Você clicou em um anúncio exibido na parte ${positions[index]} da página!`
                         : "O parâmetro de posição está nulo."}
             </h2>
-            <Button onClick={() => router.back()}>Retornar</Button>
+            <Button onClick={() => router.push(`/user`)}>Retornar</Button>
         </main>
     );
 }
