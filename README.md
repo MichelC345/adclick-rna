@@ -15,10 +15,12 @@ Esta aplicação pode ser executada abrindo o terminal/prompt de comandos e segu
 
 Dentro de /Client
 
+Instalação dos pacotes
 ```bash
-#instalação dos pacotes
 npm install
-#execução
+```
+Execução
+```bash
 npm run dev
 ```
 
@@ -26,10 +28,12 @@ npm run dev
 
 Dentro de /Server
 
+Instalação dos pacotes
 ```bash
-#instalação dos pacotes
-pip install fastapi uvicorn impbalance pandas seaborn numpy tensorflow sklearn psycopg2
-#execução
+pip install fastapi uvicorn pandas seaborn numpy tensorflow scikit-learn psycopg2 sqlalchemy
+```
+Execução
+```bash
 uvicorn app.app:app --reload
 ```
 
